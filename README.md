@@ -6,3 +6,5 @@ For this project was developed a MES (Manufacturing Execution System) with the f
   - Increased availability of machines and equipment and reduced breakages
   - Reduced production time and costs
   - Improving industrial productivity
+  
+We have also devoleped a PLC program that was responsible for the control of the factory Machines 
